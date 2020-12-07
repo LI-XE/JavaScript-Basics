@@ -1,6 +1,6 @@
 # JavaScript-Basics
 
-Recreate the image below using only what you've learned about HTML and CSS. Use display: inline-block or flex. You can download the image here: JavaScript Basics
+Recreate the image below using only what you've learned about HTML and CSS. Use display: inline-block or flex. You can download the image here: jsloups.png
 
 Before you submit your work:
 
